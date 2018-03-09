@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="hexagonal" renderorder="right-down" width="15" height="15" tilewidth="70" tileheight="61" hexsidelength="32" staggeraxis="x" staggerindex="odd" nextobjectid="10">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer name="background" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYKEAM1OofxSP4qGMmahgBgA1IgOC
+  </data>
+ </layer>
+ <layer name="walls" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQAkwOGo15CctjkiQlPbOLExgU+NxOKw8EazoNZL7kYAIHcAEg=
+  </data>
+ </layer>
+ <objectgroup name="start"/>
+ <objectgroup name="Object Layer 2"/>
+</map>
